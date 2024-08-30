@@ -1,1 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --cor-primaria-1: #FFE5EC;
+    --cor-primaria-2: #FFC2D1;
+    --cor-primaria-3: #FFB3C6;
+    --cor-primaria-4: #FF8FAB;
+    --cor-primaria-5: #FB6F92;
+    --cor-primaria-5: #F9245A;
+    
+
+    --cor-neutra-1: #fff;
+    --cor-neutra-2: #1d1d1d;
+}
