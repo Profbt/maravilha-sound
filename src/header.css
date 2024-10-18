@@ -36,7 +36,7 @@ header {
     text-transform: uppercase;
 }
 
-.nav-item a {
+.nav-item {
 background-color: var(--cor-primaria-6);
 font-size: 1.2rem;
 font-weight: 600;
@@ -45,6 +45,7 @@ font-weight: 600;
 .nav-item:hover {
     background-color: var(--cor-primaria-6);
     color: var(--cor-neutra-1);
+    cursor: pointer;
 }
 
 .nav-item.ativo a {
