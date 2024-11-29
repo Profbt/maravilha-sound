@@ -49,7 +49,7 @@ font-weight: 600;
 }
 
 .nav-item.ativo a {
-
+text-decoration: none;
 }
 
 .nav_celular {
